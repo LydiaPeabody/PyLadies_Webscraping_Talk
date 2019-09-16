@@ -5,5 +5,5 @@ Notebook and [presentation](https://docs.google.com/presentation/d/1u7HDawQFpMzj
 A link to Python data collection code from a web scraping project is also included to provide some ideas for how to construct a series of functions to complete a data collection process. It would probably be more effecient to use Scrapy to complete this process, but creating your own functions is a good way to learn the basics, and will likely make learning Scrapy easier later on.
 
 Hope you find this useful. Feel free to reach out to me with any questions, feedback, or other related thoughts.
-Happy exploring!
+Happy exploring!<br>
 Lydia
